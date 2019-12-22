@@ -1,6 +1,6 @@
 ##### Scripts for frequentist stats and plotting of [rCPT](https://github.com/sronilsson/Rodent-continous-performance-task-in-psychopy) output data
 
-* Creates rasterplots of photometry traces associated with each trial outcome (hit, false alarm, correct rejection, miss). Define [SQL](https://github.com/sronilsson/h5_to_SQLite_CPT) database as input.
+* Creates rasterplots and line graphs of photometry traces associated with each trial outcome (hit, false alarm, correct rejection, miss). Define [SQL](https://github.com/sronilsson/h5_to_SQLite_CPT) database as input.
 * Frequentist stats based on counterbalances drug data
 * Box plots/ line plots and frequentist stats across experimental condition 
 
